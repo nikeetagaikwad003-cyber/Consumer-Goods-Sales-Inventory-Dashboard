@@ -1,0 +1,11 @@
+StoreID,StoreName,Region,StoreType
+301,Store_301,East,Online
+302,Store_302,South,Online
+303,Store_303,East,Online
+304,Store_304,North,Online
+305,Store_305,North,Retail
+306,Store_306,North,Retail
+307,Store_307,West,Online
+308,Store_308,North,Retail
+309,Store_309,East,Retail
+310,Store_310,North,Retail
