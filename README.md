@@ -16,6 +16,7 @@ The project simulates a real-world retail scenario where sales and inventory mus
 ---
 
 ##  Tools & Technologies Used
+- Python
 - Power BI
 - Data Modeling
 - DAX Measures
