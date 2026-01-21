@@ -87,3 +87,4 @@ dim_store.to_csv('DimStore.csv', index=False)
 fact_sales.to_csv('FactSales.csv', index=False)
 fact_inventory.to_csv('FactInventory.csv', index=False)
 
+
